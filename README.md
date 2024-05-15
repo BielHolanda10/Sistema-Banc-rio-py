@@ -1,5 +1,5 @@
 # Projeto Sistema Bancário desenvolvido em Python - Versão 1.0
-- Este é um sistema bancário bem simples desenvolvido em python, usando o terminal para executalo, como interface.
+- Este é um sistema bancário bem simples desenvolvido em python, usando o terminal para executa-lo, como interface.
 
 # Funções
 - Depósito: Permite o usuário depositar valores positivos em sua conta bancária.
