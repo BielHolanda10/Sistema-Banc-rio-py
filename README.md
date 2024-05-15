@@ -12,7 +12,7 @@
 
 # Instruções de uso 
 1. Execute o programa main.py
-2. Você será apresentado com um menu que oferece as seguintes opções:
+2. Você será apresentado com um menu que oferece as seguintes opções:\
  [D] Depósito\
  [S] Saque\
  [E] Extrato Bancário\
