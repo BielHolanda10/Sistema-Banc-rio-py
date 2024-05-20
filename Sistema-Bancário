@@ -5,7 +5,7 @@
 # Extrato: O sistema vai exibir todas suas operações de deposito e saque, incluindo no final o saldo da conta bancária no formato R$ xxxx.xx
 
 print('==================== SEJA BEM VINDO AO SISTEMA BANCÁRIO D.I.O ====================')
-menu = '[D] Depósitar \n[S] Sacar \n[E] Extrato \n[S] Sair \nSelecione a operação desejada: '
+menu = '[D] Depósitar \n[S] Sacar \n[E] Extrato \n[Q] Sair \nSelecione a operação desejada: '
 
 saldo = 0
 limite = 500
